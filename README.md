@@ -1,2 +1,2 @@
 # DankSorcererBuild
-Pre-Alpha Build of Dank Sorcery
+Pre-Alpha Build of Dankest Sorcerer
